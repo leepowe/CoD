@@ -15,3 +15,6 @@ node_modules/
 .vscode/
 .idea/
 *.user
+__pycache__/
+*.py[cod]
+.pytest_cache/
