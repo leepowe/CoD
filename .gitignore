@@ -1,0 +1,17 @@
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Build outputs & dependencies (adjust depending on your stack/engine)
+bin/
+obj/
+build/
+dist/
+node_modules/
+*.log
+
+# IDE / Editor config
+.vscode/
+.idea/
+*.user
